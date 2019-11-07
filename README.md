@@ -1,4 +1,4 @@
-# lua-bouncing-dvd
+# lua-love2d-bouncing-dvd
 Watch bouncing dvd made by Love2D hits the corner
 
 ## WARNING
